@@ -20,6 +20,8 @@ my system: Linux (ubuntu 18.04)
 	for safari:
 	https://webkit.org/blog/6900/webdriver-support-in-safari-10/
 
+note: my preference is google chrome.
+
 #3. move the downloaded file (chromedriver) or (geckodriver) in >> /usr/local/bin/
 
 	mv ....driver /usr/local/bin/
