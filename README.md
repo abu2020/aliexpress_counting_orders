@@ -44,4 +44,4 @@ now just enter your username and password when prompted.
 	python3 aliexpress_counting_orders.py("yourEmailAddress", "yourPassword")
 	
 
-#### I will appreciate any contribution to improve this script
+#### I will appreciate your contribution to improve this script
